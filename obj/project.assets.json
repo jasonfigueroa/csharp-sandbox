@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jason/workspace/dotnet_projects/hwapp/hwapp.csproj",
+      "projectUniqueName": "/home/jason/workspace/dotnet_projects/csharp-sandbox/hwapp.csproj",
       "projectName": "hwapp",
-      "projectPath": "/home/jason/workspace/dotnet_projects/hwapp/hwapp.csproj",
+      "projectPath": "/home/jason/workspace/dotnet_projects/csharp-sandbox/hwapp.csproj",
       "packagesPath": "/home/jason/.nuget/packages/",
-      "outputPath": "/home/jason/workspace/dotnet_projects/hwapp/obj/",
+      "outputPath": "/home/jason/workspace/dotnet_projects/csharp-sandbox/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
